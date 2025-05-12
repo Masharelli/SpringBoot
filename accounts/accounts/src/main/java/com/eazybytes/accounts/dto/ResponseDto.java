@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data @AllArgsConstructor
-public class ResponseDto {
+public class  ResponseDto {
 
     private String statusCode;
 
